@@ -8,5 +8,6 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("Just printing a iine");
+        System.out.println("Just printing a second iine");
     }
 }
